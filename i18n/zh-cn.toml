@@ -27,7 +27,6 @@ other = "保留所有权利"
 [footer_privacy_policy]
 other = "隐私政策"
 
-
 # Post (blog, articles etc.)
 [post_byline_by]
 other = "撰文："
@@ -90,7 +89,13 @@ other = "有帮助"
 [feedback_negative]
 other = "没帮助"
 
-# Taxonomy
+# Table of contents
+[toc_on_this_page]
+other = "本文目录"
+[toc_top_of_page]
+other = "页面顶部"
+
+# Custom Taxonomy
 [taxonomy_category]
 other = "分类"
 [taxonomy_categories]
