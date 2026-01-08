@@ -20,6 +20,13 @@ menu: {main: {weight: 5, pre: "<i class='fa-solid fa-scroll'></i>" }}
 
 ---
 
+相关链接：
+
+- [最高人民法院 - 司法解释](http://gongbao.court.gov.cn/ArticleList.html?serial_no=sfjs)
+- [最高人民检察院 - 司法解释](https://www.spp.gov.cn/flfg/sfjs/)
+
+---
+
 **司法解释** 相关文本共有870件，其中：
 
 - 有效: 553

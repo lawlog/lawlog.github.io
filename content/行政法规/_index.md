@@ -7,7 +7,7 @@ menu: {main: {weight: 3, pre: "<i class='fa-solid fa-building'></i>" }}
 ---
 
 <details class="doc-details">
-<summary><strong>行政法规</strong>统计：共有804件，其中有效共606件</summary>
+<summary><strong>行政法规</strong>统计：共有804件，其中有效共605件</summary>
 {{% pageinfo %}}
 
 **行政法规**说明：
@@ -22,12 +22,19 @@ menu: {main: {weight: 3, pre: "<i class='fa-solid fa-building'></i>" }}
 
 ---
 
+根据《行政法规制定程序条例》汇编国家正式版本并动态更新，中国政府网与中国政府法制信息网（司法部官网）同步公布：
+
+- [中国政府网 gov.cn](https://www.gov.cn/zhengce/xzfgk/)
+- [中国政府法制信息网（司法部官网） moj.gov.cn](https://www.moj.gov.cn/flfggz/flfggzflk/)
+
+---
+
 **行政法规** 相关文本共有804件，其中：
 
 - 尚未生效: 2
-- 有效: 606
+- 有效: 605
 - 已修改: 117
-- 已废止: 65
+- 已废止: 66
 - 未知: 14
 
 {{% /pageinfo %}}
